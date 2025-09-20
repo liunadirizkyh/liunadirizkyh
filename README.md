@@ -1,7 +1,7 @@
-👋 Hello, Welcome to My Profile!
+<div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=3CB371&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Liunadi+Rizky+Hidayat;A+Passionate+Software+Engineer;Cybersecurity+and+Mobile+Development+Enthusiast;Always+Learning+and+Exploring+New+Things)
+# 👋 Hello, Welcome!
 
----
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=1E90FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Liunadi+Rizky+Hidayat;A+Passionate+Software+Engineer+and+Cybersecurity+Enthusiast;Always+Learning+New+Things)
 
-💡 Keep learning, keep building.
+</div>
