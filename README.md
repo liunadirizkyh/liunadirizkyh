@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Liunadi 👋
 
-<!--
-**liunadirizkyh/liunadirizkyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student who loves learning, exploring, and building things in **software development** and **cybersecurity**.  
 
-Here are some ideas to get you started:
+### 🌱 Currently learning
+- Mobile Development (Android & iOS)
+- Cybersecurity & Penetration Testing
+- Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- Languages: Java, Kotlin, Swift, JavaScript, Python, Solidity  
+- Tools: Git, Docker, Android Studio, VS Code  
+- Frameworks: React, Next.js, Laravel  
+
+### 📊 GitHub Stats
+![Liunadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiunadiRizky&show_icons=true&theme=transparent)
+
+---
+
+💡 *“Keep learning, keep building.”*
