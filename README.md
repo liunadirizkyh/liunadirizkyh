@@ -1,20 +1,6 @@
-# Hi, I'm Liunadi 👋
+# Hi there 👋
 
-I'm a Computer Science student who loves learning, exploring, and building things in **software development** and **cybersecurity**.  
-
-### 🌱 Currently learning
-- Mobile Development (Android & iOS)
-- Cybersecurity & Penetration Testing
-- Web Development
-
-### 🛠️ Tech Stack
-- Languages: Java, Kotlin, Swift, JavaScript, Python, Solidity  
-- Tools: Git, Docker, Android Studio, VS Code  
-- Frameworks: React, Next.js, Laravel  
-
-### 📊 GitHub Stats
-![Liunadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiunadiRizky&show_icons=true&theme=transparent)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=3CB371&lines=Welcome+to+my+GitHub!;I'm+Liunadi+Rizky;Software+Developer+%7C+Cybersecurity+Enthusiast)
 
 ---
-
-💡 *“Keep learning, keep building.”*
+💡 Keep learning, keep building.
